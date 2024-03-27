@@ -30,7 +30,7 @@
 月前风雨满，风雨落花声。eos有人间事，何人不可知。eos来无处处，不见此人间。eos有人间事，何人不可知。eos来
 年年不得，相思不见。eos上不知，不得无人。eos道不知，不得，不知。eos生不得，不知君事。eos道不知，不知何事
 风吹一片花。eos来无人事，不见此人间。eos有人间事，何人不可知。eos来无处处，不见此人间。eos有人间事，何人
-
+![alt text](image-1.png)
 参考文献：
 
 ​    Xingxing Zhang and Mirella Lapata. 2014. Chinese poetry generation with recurrent neural networks. In Proceedings of the 2014 Conference on EMNLP. Association for Computational Linguistics, October
